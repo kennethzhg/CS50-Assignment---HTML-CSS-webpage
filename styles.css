@@ -1,0 +1,142 @@
+/* the aesthetics of the contents - size, colour, font, etc. */
+
+body {
+    height:100px;
+    background-image: url("images/zhou_riding-a-dragon.jpg");
+    background-size:cover;
+    background-position: center;
+    margin-left: 0%; 
+    margin-right: 0%;
+}
+/* somehow there is a default margin of 20px */
+
+
+.header {
+    height: 200%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.outerbox {
+    display: flex;
+    justify-content: center;
+}
+
+.middlebox {
+    float: left;
+}
+
+/* #bamboo {
+    height: 200px;
+} */
+
+/* Is there any way to change the dimensions without hardcoding the number of pixels?
+I found that if I stated the height in pixels, the div container will resize accordingly;
+but if I stated the height in percentage, the div will not resize accordingly. Why? */
+
+
+
+.card-block {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    float: left;
+}
+
+#card2 {
+    position: relative;
+    top: 120px;
+    height: 500px;
+}
+
+#Confucius {
+    height: 600px;
+}
+
+#choicebanner {
+    height: 150px;
+}
+
+#Mencius {
+    height: 600px;
+}
+
+#Confucius-scroll {
+    padding-left: 50px;
+    position: relative;
+    top: 50px;
+    height: 500px;
+}
+
+.text-block {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -480px;
+}
+
+.English1 {
+    float: left;
+    font-family: Lucida;
+    font-size: 30;
+    color: black;
+    height: 360px;
+    width: 235px;
+    margin-left: 610px;
+    margin-right: 20px;
+}
+
+@font-face {
+    src: url(/zhongshan-xingshu.ttf);
+    font-family: zhongshan;
+}
+
+.Chinese1 {
+    float: left;
+    font-family: zhongshan;
+    font-size: 40;
+    color: black;
+    writing-mode: vertical-rl;
+    height: 360px;
+    width: 255px;
+}
+
+#Mencius-scroll {
+    padding-right: 50px;
+    position: relative;
+    top: 50px;
+    height: 500px;
+}
+
+.English2 {
+    float: left;
+    font-family: Lucida;
+    font-size: 30;
+    color: black;
+    height: 360px;
+    width: 235px;
+    margin-left: -50px;
+}
+
+.Chinese2 {
+    float: left;
+    font-family: zhongshan;
+    font-size: 40;
+    color: black;
+    writing-mode: vertical-rl;
+    height: 360px;
+    width: 255px;
+    margin-left: 15px;
+    margin-right: 105px;
+}
+
+#back-button {
+    position: relative;
+    top: -380px;
+    right: -150px;
+}
+
