@@ -122,7 +122,7 @@ body {
 
 #back-button {
     position: relative;
-    top: -380px;
-    right: -150px;
+    top: -400%;
+    right: -50%;
 }
 
