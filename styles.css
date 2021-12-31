@@ -1,6 +1,6 @@
 body {
     height:100px;
-    background-image: url("/images/zhou_riding-a-dragon.jpg");
+    background-image: url("https://kennethzhg.github.io/CS50-Assignment---HTML-CSS-webpage/images/zhou_riding-a-dragon.jpg");
     background-size:cover;
     background-position: center;
     margin-left: 0%; 
