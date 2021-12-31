@@ -67,13 +67,13 @@ body {
 
 .English1 {
     float: left;
-    font-family: Lucida;
-    font-size: 30;
-    color: black;
-    height: 360px;
+    max-height: 360px;
     width: 235px;
     margin-left: 610px;
     margin-right: 20px;
+    font-family: 'Felix Titling';
+    font-size: 127%;
+    color: black;
 }
 
 @font-face {
@@ -84,7 +84,7 @@ body {
 .Chinese1 {
     float: left;
     font-family: zhongshan;
-    font-size: 40;
+    font-size: 200%;
     color: black;
     writing-mode: vertical-rl;
     height: 360px;
