@@ -1,6 +1,6 @@
 This is a simple webpage which I have created as part of the CS50 edX online course.
 
-You can view it on https://CS50xCourseWebsite.kennethzhg.repl.co, or download these files and run it on your offline code editor (loading will be faster).
+You can view it on https://CS50xCourseWebsite.kennethzhg.repl.co, or download these files and run it on your offline code editor (loading will be infinitely faster).
 
 I am still new to coding, so there are some issues and ideas I have.
 
