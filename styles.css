@@ -100,8 +100,8 @@ body {
 
 .English2 {
     float: left;
-    font-family: Lucida;
-    font-size: 30;
+    font-family: 'Felix Titling';
+    font-size: 127%;
     color: black;
     height: 360px;
     width: 235px;
@@ -111,7 +111,7 @@ body {
 .Chinese2 {
     float: left;
     font-family: zhongshan;
-    font-size: 40;
+    font-size: 200%;
     color: black;
     writing-mode: vertical-rl;
     height: 360px;
