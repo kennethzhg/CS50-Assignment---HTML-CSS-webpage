@@ -3,28 +3,18 @@ body {
     background-image: url("images/zhou-riding-a-dragon.jpg");
     background-size:cover;
     background-position: center;
-    margin-left: 0%; 
-    margin-right: 0%;
 }
 
 .header {
-    height: 200%;
+    height: 12vw;
     display: flex;
     justify-content: center;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
-.outerbox {
-    display: flex;
-    justify-content: center;
-}
-
-.middlebox {
-    float: left;
-}
-
 .card-block {
+    height: 35vw;
     display: flex;
     justify-content: center;
 }
@@ -33,46 +23,52 @@ body {
     float: left;
 }
 
-#card2 {
-    position: relative;
-    top: 120px;
-    height: 500px;
-}
-
 #Confucius {
-    height: 600px;
+    height: 35vw;
 }
 
 #choicebanner {
-    height: 150px;
+    height: 10vw;
+    position: relative;
+    top: 20%;
 }
 
 #Mencius {
-    height: 600px;
+    height: 35vw;
 }
 
 #Confucius-scroll {
-    padding-left: 50px;
+    padding-left: 5vw;
     position: relative;
-    top: 50px;
-    height: 500px;
+    top: 3%;
+    height: 32vw;
 }
 
-.text-block {
+.text-block1 {
     display: flex;
     justify-content: center;
     position: relative;
-    top: -480px;
+    top: -25vw;
+    right: -10vw;
+}
+
+.text-block2 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -25vw;
+    right: -8vw;
 }
 
 .English1 {
     float: left;
-    max-height: 360px;
-    width: 235px;
-    margin-left: 610px;
-    margin-right: 20px;
+    height: 23vw;
+    width: 15vw;
+    position: relative;
+    top: -1vw;
+    padding-left: 6vw;
     font-family: 'Felix Titling';
-    font-size: 127%;
+    font-size: 1.5vw;
     color: black;
 }
 
@@ -83,46 +79,49 @@ body {
 
 .Chinese1 {
     float: left;
-    height: 360px;
-    width: 255px;
+    height: 23vw;
+    width: 25vw;
+    position: relative;
+    top: -1vw;
+    right: 6.8vw;
     font-family: zhongshan;
-    font-size: 200%;
+    font-size: 2.5vw;
     color: black;
     writing-mode: vertical-rl;
 }
 
 #Mencius-scroll {
-    padding-right: 50px;
-    position: relative;
-    top: 50px;
-    height: 500px;
+    height: 32vw;
+    padding-right: 5vw;
 }
 
 .English2 {
     float: left;
-    height: 360px;
-    width: 235px;
-    margin-left: -50px;
+    height: 23vw;
+    width: 15vw;
+    position: relative;
+    top: -3vw;
     font-family: 'Felix Titling';
-    font-size: 127%;
+    font-size: 1.5vw;
     color: black;
 }
 
 .Chinese2 {
     float: left;
-    height: 360px;
-    width: 255px;
-    margin-left: 15px;
-    margin-right: 105px;
+    height: 23vw;
+    width: 25vw;
+    position: relative;
+    top: -3vw;
+    right: 6.8vw;
     font-family: zhongshan;
-    font-size: 200%;
+    font-size: 2.5vw;
     color: black;
     writing-mode: vertical-rl;
 }
 
 #back-button {
+    height: 5vw;
     position: relative;
-    top: -400%;
-    right: -50%;
+    top: 0vw;
+    right: -48vw;
 }
-
