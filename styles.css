@@ -83,12 +83,12 @@ body {
 
 .Chinese1 {
     float: left;
+    height: 360px;
+    width: 255px;
     font-family: zhongshan;
     font-size: 200%;
     color: black;
     writing-mode: vertical-rl;
-    height: 360px;
-    width: 255px;
 }
 
 #Mencius-scroll {
@@ -100,24 +100,24 @@ body {
 
 .English2 {
     float: left;
-    font-family: 'Felix Titling';
-    font-size: 127%;
-    color: black;
     height: 360px;
     width: 235px;
     margin-left: -50px;
+    font-family: 'Felix Titling';
+    font-size: 127%;
+    color: black;
 }
 
 .Chinese2 {
     float: left;
-    font-family: zhongshan;
-    font-size: 200%;
-    color: black;
-    writing-mode: vertical-rl;
     height: 360px;
     width: 255px;
     margin-left: 15px;
     margin-right: 105px;
+    font-family: zhongshan;
+    font-size: 200%;
+    color: black;
+    writing-mode: vertical-rl;
 }
 
 #back-button {
