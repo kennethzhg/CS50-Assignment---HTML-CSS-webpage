@@ -1,6 +1,7 @@
 This is a simple webpage which I have created as part of the CS50 edX online course.
 
-You can view it on https://CS50xCourseWebsite.kennethzhg.repl.co, or download these files and run it on your offline code editor (loading will be infinitely faster).
+You can download these files (or clone/fork this repository) and view it on localhost.
+Alternatively, you can view it on the Github Page that I have published (https://kennethzhg.github.io/CS50-Assignment-HTML-CSS/) after modifying these codes slightly (more on this at https://github.com/kennethzhg/CS50-Assignment-HTML-CSS/tree/editedforGHpages).
 
 I am still new to coding, so there are some issues and ideas I have.
 
