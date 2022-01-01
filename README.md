@@ -13,3 +13,5 @@ The changes I made to the original codes are (1) taking away the first forward s
 (2) Ensuring flie names do not contain underscore 
 - Original file name: zhou_riding-a-dragon.jpg
 - Code edited to make GH Pages work: zhou-riding-a-dragon.jpg (notice the underscore is replaced by hyphen)
+
+Other than these changes, the issues described in the main branch's README.md (https://github.com/kennethzhg/CS50-Assignment-HTML-CSS/tree/main) still persist at the moment.
