@@ -62,14 +62,19 @@ body {
 
 .English1 {
     float: left;
-    height: 23vw;
-    width: 15vw;
+    height: 21.5vw;
+    width: 14.5vw;
+    padding: 0.7vw;
     position: relative;
-    top: -1vw;
-    padding-left: 6vw;
+    top: -1.7vw;
+    right: 0.7vw;
     font-family: 'Felix Titling';
     font-size: 1.5vw;
+    font-weight: bold;
+    text-align: center;
+    line-height: 130%; /*not the best solution because if longer texts are input, they will overflow */
     color: black;
+    background: rgb(30, 158, 152);
 }
 
 @font-face {
@@ -80,10 +85,9 @@ body {
 .Chinese1 {
     float: left;
     height: 23vw;
-    width: 25vw;
+    width: 16.5vw;
     position: relative;
-    top: -1vw;
-    right: 6.8vw;
+    top: -1.7vw;
     font-family: zhongshan;
     font-size: 2.5vw;
     color: black;
@@ -97,22 +101,28 @@ body {
 
 .English2 {
     float: left;
-    height: 23vw;
-    width: 15vw;
+    height: 21.5vw;
+    width: 14.5vw;
+    padding: 0.7vw;
     position: relative;
-    top: -3vw;
+    top: -2.8vw;
+    right: 3.7vw;
     font-family: 'Felix Titling';
     font-size: 1.5vw;
+    font-weight: bold;
+    text-align: center;
+    line-height: 130%; /*not the best solution because if longer texts are input, they will overflow */
     color: black;
+    background: rgb(30, 158, 152);
 }
 
 .Chinese2 {
     float: left;
     height: 23vw;
-    width: 25vw;
+    width: 16.5vw;
     position: relative;
-    top: -3vw;
-    right: 6.8vw;
+    top: -2.8vw;
+    right: 3.1vw;
     font-family: zhongshan;
     font-size: 2.5vw;
     color: black;
