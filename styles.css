@@ -78,7 +78,7 @@ body {
 }
 
 @font-face {
-    src: url("/zhongshan-xingshu.ttf");
+    src: url("zhongshan-xingshu.ttf");
     font-family: zhongshan;
 }
 
