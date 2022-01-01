@@ -6,7 +6,7 @@ Alternatively, you can view it on the Github Page that I have published (https:/
 I am still new to coding, so there are some issues and ideas I have.
 
 Current issues:
-- text size do not auto-fit the div dimensions (my intended div height is between the top and bottom strings of the bamboo scroll). I am still trying to figure out if I need JavaScript to inject this dynamism.
+- text size do not auto-fit the div dimensions (my intended div height is between the top and bottom strings of the bamboo scroll). This will cause text to overflow if I input longer quotes (see 'Ideas' below). I am still trying to figure out if I need JavaScript to inject this dynamism.
 - there are some inconsistencies in the Chinese font. This is beyond me as I am not the creator of the font package.
 
 Ideas:
