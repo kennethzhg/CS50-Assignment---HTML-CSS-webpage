@@ -5,5 +5,7 @@ The reason why this is necessary is that somehow GH Pages has a slightly differe
 The changes I made to the original codes are taking away the first forward slash when I am using the src and href attributes:
 
 e.g.
+
 Original code: img src="/images/Logo.png"
+
 Code edited to make GH Pages work: img src="images/Logo.png" (notice the first forward slash is removed)
