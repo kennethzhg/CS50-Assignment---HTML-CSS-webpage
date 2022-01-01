@@ -9,6 +9,7 @@ Issues:
 - elements do not resize according to screen size. Still trying to figure out.
 - zooming in beyond 150% on PC causes the divs containing the texts to be displaced from their intended position.
 - text size do not auto-fit the div dimensions (the div height is between the top and bottom strings of the bamboo scroll (see /Images)). I am still trying to figure out if I need  JavaScript to inject this dynamism.
+- there are some inconsistencies in the Chinese font. This is beyond me as I am not the creator of the font package.
 
 Ideas:
 - on every refresh (or for every 24 hours since last visit or every midnight UTC+0), a random Sage's Quote will be shown. Currently the quotes are hardcoded. I am still learning how to write use JavaScript (includng the relevant libraries) to inject this dynamism.
