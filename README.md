@@ -6,8 +6,8 @@ Alternatively, you can view it on the Github Page that I have published (https:/
 I am still new to coding, so there are some issues and ideas I have.
 
 Issues:
-- elements do not resize according to screen size, and it looks especially disorganised on mobile. Still trying to figure this out; meanwhile please view the website on PC.
-- at some point, zooming in on PC causes the divs containing the texts to be displaced from their intended position.
+- elements do not scale according to screen size, and thus it is not mobile-friendly. Still trying to figure this out; meanwhile please view the website on PC.
+- at some point, zooming in on PC causes the divs containing the texts to be displaced from their intended positions.
 - text size do not auto-fit the div dimensions (the div height is between the top and bottom strings of the bamboo scroll (see /Images)). I am still trying to figure out if I need  JavaScript to inject this dynamism.
 - there are some inconsistencies in the Chinese font. This is beyond me as I am not the creator of the font package.
 
