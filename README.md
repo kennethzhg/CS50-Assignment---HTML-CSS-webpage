@@ -12,4 +12,4 @@ Issues:
 - there are some inconsistencies in the Chinese font. This is beyond me as I am not the creator of the font package.
 
 Ideas:
-- on every refresh (or for every 24 hours since last visit or every midnight UTC+0), a random Sage's Quote will be shown. Currently the quotes are hardcoded. I am still learning how to write use JavaScript (includng the relevant libraries) to inject this dynamism.
+- on every refresh (or for every 24 hours since last visit or every midnight UTC+8), a random Sage's Quote will be shown. Currently the quotes are hardcoded. I am still learning how to write use JavaScript (including the relevant libraries) to inject this dynamism.
