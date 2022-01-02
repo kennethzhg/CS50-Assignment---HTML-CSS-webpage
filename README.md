@@ -6,7 +6,7 @@ Alternatively, you can view it on the Github Page that I have published (https:/
 I am still new to coding, so there are some issues and ideas I have.
 
 Current issues:
-- for Chinese text, I am using <div> because I cannot use <textarea> like I did for English text (see first point of 'Past Issues' below), as <textarea> does not support {writing-mode} (I want to present the Chinese text in the vertical-rl fashion i.e. top-to-bottom and right-to-left). Unfortunately, as a result, the text will overflow if I input longer quotes (see 'Ideas' below). I am still seeking a solution e.g. auto-scaling font-size according to text length such that they fit within the <div> dimensions.
+- for Chinese text, I am using div because I cannot use <textarea> like I did for English text (see first point of 'Past Issues' below), as <textarea> does not support {writing-mode} (I want to present the Chinese text in the vertical-rl fashion i.e. top-to-bottom and right-to-left). Unfortunately, as a result, the text will overflow if I input longer quotes (see 'Ideas' below). I am still seeking a solution e.g. auto-scaling font-size according to text length such that they fit within the <div> dimensions.
 - there are some inconsistencies in the Chinese font. This is beyond me as I am not the creator of the font package.
   
 Ideas:
