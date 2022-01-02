@@ -5,19 +5,19 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" href="images/Logo.png" type="image/x-icon">
         <link rel="stylesheet" href="styles.css">
+        <script src="scripts.js"></script>
     </head>
     <body>
         <div class="header">
-            <img id="logo" src="images/Head-banner.png">        
+            <img id="logo" src="/images/Head-banner.png">        
         </div>
         
         <div id="card-block" class="card-block">
             <div id="card4" class="card">
-                <img id="Mencius-scroll" src="images/Bamboo-Scroll.png">
-                <div id="text-block2" class="text-block2">
-                    <textarea id="English2" class="English2" readonly>The poor attended to their own virtue in solitude; if advanced to dignity they made the whole empire virtuous as well.</textarea>
-                    <div id="Chinese2" class="Chinese2">
-                        窮則獨善其身， 達則兼善天下。 
+                <img id="Mencius-scroll" src="images/Bamboo-Scroll.png"><div id="text-block2" class="text-block2">
+                    <textarea id="English2" class="English2" readonly>Please enlighten me, Sir.</textarea>
+                    <div id="Chinese2" class="Chinese2" readonly>
+                        恭請先生赐教。
                     </div>
                 </div>
             </div>
@@ -26,8 +26,10 @@
             </div>
         </div>
         
+        <div id="footer" class="footer">
         <a href="index.html">
             <img id="back-button" src="images/Back-button.png">
         </a>
-    </body>
+        <button id="HitMe" onclick="showRandMQ()">Hit me!</button>
+    </div>
 </html>
