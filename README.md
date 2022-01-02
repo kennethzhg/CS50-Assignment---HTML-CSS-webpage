@@ -1,6 +1,6 @@
 This is a branch created solely for using Github Pages to publish webpages using my code.
 
-Here's the GH Page: https://kennethzhg.github.io/CS50-Assignment-HTML-CSS/
+Here's the GH Page: https://kennethzhg.github.io/CS50-Assignment-HTML-CSS-JS/
 
 The reason why creating this branch is necessary is that somehow GH Pages has a slightly different syntax for filepaths and file names, resulting in my images not being rendered if I were to use the original codes that I developed using Visual Studio Code, which worked just fine when I tested on localhost as well as online IDEs like Replit.
 
