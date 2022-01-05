@@ -84,7 +84,7 @@ body {
 
 .Chinese1 {
     float: left;
-    height: 23.5vw;
+    height: 23vw;
     width: 16.5vw;
     position: relative;
     top: -1.7vw;
@@ -136,7 +136,6 @@ body {
     background: none;
     writing-mode: vertical-rl;
 }
-
 
 .footer {
     display: flex;
